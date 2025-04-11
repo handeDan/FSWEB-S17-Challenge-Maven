@@ -31,7 +31,6 @@ class MainTest {
     @Autowired
     private Environment env;
 
-
     @Autowired
     private MockMvc mockMvc;
 
